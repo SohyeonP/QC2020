@@ -1,0 +1,23 @@
+/* center the blockquote in the page */
+
+ #section-content{
+     background-color: white;
+ }
+ .example-title{
+    margin-bottom: 30px;
+ }
+ .flexbox{
+     display: flex;
+     flex-direction: column;
+     color:#444444;
+ }
+ .clearfix1{
+
+ }
+ .clearfix2{
+     
+}
+.box{
+    color:#444444;
+    font-size: 30px;
+}
