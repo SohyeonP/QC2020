@@ -1,8 +1,12 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AICA,AAAA,GAAG,AAAA,CDAC,KAAK,CDDM,IAAI,CCEf,YAAY,CCAI,GAAG,CDCnB,YAAY,CAAE,KAAK,CACnB,OAAO,CDFM,GAAG,CECnB",
     "sources": [
-        "../scss/qc2020.scss"
+        "../scss/qc2020.scss",
+        "../scss/_color.scss",
+        "../scss/_variable.scss",
+        "../scss/_mixin.scss",
+        "../scss/_main.scss"
     ],
     "names": [],
     "file": "qc2020.min.css"
