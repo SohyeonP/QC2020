@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/qc2020.scss"
+    ],
+    "names": [],
+    "file": "qc2020.min.css"
+}

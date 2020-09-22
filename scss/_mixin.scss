@@ -1,0 +1,23 @@
+@mixin basic ($border-width){
+    width:$default-width;
+    border-width:$border-width;
+    border-style: solid;
+    padding: $default-padding;
+}
+@mixin edge-color($edge-color){
+    background-color: map-get($background-color, $edge-color );
+    border-color: map-get($default-color,$edge-color);
+}
+@mixin edge-left ($edge-width){
+    border-left-width: $edge-width;
+}
+@mixin edge-right  ($edge-width){
+    border-right-color: $edge-width;
+    
+}
+@mixin edge-top($edge-width) {
+    border-top-width: $edge-width;
+}
+@mixin edge-bottom($edge-width) {
+    border-bottom-width: $edge-width;
+}
