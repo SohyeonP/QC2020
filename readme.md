@@ -1,6 +1,6 @@
 # 박소현
 ### 20200929 font추가
->typography
+>typography.scs 추가
 
 ### 20200922
 > main.scss  추가및 적용
